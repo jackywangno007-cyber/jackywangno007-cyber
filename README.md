@@ -19,22 +19,7 @@ My current focus is on:
 - Open-source contribution
 - Data/AI engineering projects
 - Exploring AI infrastructure topics such as inference serving and deployment
-
-## Projects
-
-Here are some things I'm working on or learning from:
-
-- **SmartCity-Data-Engineering-Roadmap**  
-  A hands-on data engineering project for smart city scenarios.
-
-- **Soccer News Research Agent**  
-  An agent project for structured football event/news research and timeline generation.
-
-- **Generative AI for Beginners Practice**  
-  My learning and reproduction notes/projects based on Microsoft's open-source materials.
-
-- **vLLM-Omni Open Source Contribution Journey**  
-  Learning the codebase, reading issues, and trying to contribute to the community.
+ran'hou'ba
 
 ## Tech Interests
 
@@ -45,14 +30,5 @@ Here are some things I'm working on or learning from:
 - AI Infra & Model Serving
 - Git & Open Source Collaboration
 
-## Beyond Tech
-
-I enjoy:
-- 📷 Photography
-- 🎥 Films
-- 🎵 Music
-- ⚽ Football
-
----
-
-> Building step by step, learning in public.
+> What doesn’t kill you makes you stronger.
+> — Friedrich Nietzsche
